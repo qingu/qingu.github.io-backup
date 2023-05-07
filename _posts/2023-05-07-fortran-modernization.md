@@ -2,7 +2,7 @@
 layout: post
 title: Fortran现代化
 date: 2023-05-07
-tags: jekyll
+tags: fortran
 ---
 
 ## 前言
