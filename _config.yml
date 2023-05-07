@@ -8,6 +8,10 @@ avatarTitle: WetWan
 avatarDesc: NWP / HPC
 url: "https://metman.top"
 
+plugins:
+  - jekyll-sitemap
+  - jekyll-paginate
+
 # 博客是否自动生成目录，false为不生成
 enableToc: true
 
@@ -79,7 +83,7 @@ nav:
     
 
 # Pagination
-gems: [jekyll-paginate,jekyll-sitemap]
+#gems: [jekyll-paginate,jekyll-sitemap]
 paginate: 20
 paginate_path: "page/:num/"
 
