@@ -13,7 +13,7 @@ Fortran作为一门非常古老的高级语言（1957年由IBM公司Backus等人
 
 下图是编程语言排行榜[TIOBE Index](https://www.tiobe.com/tiobe-index/fortran/)统计的Fortran语言二十多年来的热门程度。最好的排名是在2002年排到了第10名；最低位置在2020年，第50名；目前最新排名是26名。
 
-![TIOBE Index of Fortran]({{ "/images/posts/2023-05-07/tiobe_index_of_fortran.png" | absolute_url }})
+![TIOBE Index of Fortran]({{ site.url }}/images/posts/2023-05-07/tiobe_index_of_fortran.png)
 
 ## Fortran优点
 
