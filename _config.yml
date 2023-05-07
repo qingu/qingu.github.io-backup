@@ -14,8 +14,15 @@ enableToc: true
 # Comment
 comment:
     # livere: MTAyMC81MDk5NC8yNzQ3Ng  # https://www.livere.com
-    disqus: wetwan
+    #disqus: wetwan
     # uyan: 2143225  # 有言id,登录有言官网申请
+    gitalk: 
+        clientId: '04e46c87001676d887fc'
+        clientSecret: '9ec874e9b3af51ce77af2e85caef8c396b7fdc1f'
+        repo: 'qingu.github.io'
+        username: 'qingu'
+    
+
 
 # Social
 social:
