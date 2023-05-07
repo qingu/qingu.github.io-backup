@@ -46,7 +46,7 @@ Fortran语言社区也意识到与现代编程语言在生态、工具方面的�
 - Fortran官网及论坛
 
 
-![From Curcic et al., 2020](https://s1.vika.cn/space/2022/07/02/905b4ec941f54f639f3acee68afe7909)
+![From Curcic et al., 2020]({{ site.url }}/images/posts/2023-05-07/fortran_community.png)
 
 
 ### stdlib - Fortran标准库
@@ -55,7 +55,7 @@ Fortran语言社区也意识到与现代编程语言在生态、工具方面的�
 
 Fortran社区开启stdlib项目，通过Github进行协作开发。stdlib处于密集开发状态，最新开发进展可以到Github项目仓库查看。
 
-![From Shaffer et al., 2021](https://s1.vika.cn/space/2022/07/02/0aaed963772a419b97aa65c47b21d397)
+![From Shaffer et al., 2021]({{ site.url }}/images/posts/2023-05-07/stdlib.png)
 
 项目地址：[fortran-lang/stdlib: Fortran Standard Library (github.com)](https://github.com/fortran-lang/stdlib)
 
@@ -70,7 +70,7 @@ Fortran社区启动fpm项目创建专属于Fortran的构建系统和包管理器
 
 fpm具有Bootstrap特色，只需要使用Fortran编译器构建，最小化依赖其它库和软件。
 
-![From Ehlert et al., 2021](https://s1.vika.cn/space/2022/07/02/df5cf7d0bd614640b322d7b44e889ca2)
+![From Ehlert et al., 2021]({{ site.url }}/images/posts/2023-05-07/fpm.png)
 
 项目地址：[fortran-lang/fpm: Fortran Package Manager (fpm) (github.com)](https://github.com/fortran-lang/fpm)
 
