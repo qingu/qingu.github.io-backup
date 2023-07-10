@@ -50,10 +50,10 @@ ECMWF将集合预报分辨率提高到了全球9公里，进一步巩固了其NW
 
 ## 参考资料 
 
-1. [Accurate medium-range global weather forecasting with 3D neural networks | Nature](https://www.nature.com/articles/s41586-023-06185-3)
+1. [Accurate medium-range global weather forecasting with 3D neural networks](https://www.nature.com/articles/s41586-023-06185-3)
 
 2. [Implementation of IFS Cycle 48r1 - Forecast User - ECMWF Confluence Wiki](https://confluence.ecmwf.int/display/FCST/Implementation+of+IFS+Cycle+48r1)
 
 3. https://www.ecmwf.int/sites/default/files/elibrary/2023/81359-annual-report-2022.pdf
 
-4. [wgne.net/nwp-systems-wgne-table/wgne-table/](https://wgne.net/nwp-systems-wgne-table/wgne-table/)
+4. [WGNE computing table](https://wgne.net/nwp-systems-wgne-table/wgne-table/)
