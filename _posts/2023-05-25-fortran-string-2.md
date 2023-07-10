@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 新博客模板
+title: Fortran字符串处理下篇
 date: 2023-05-25
 tags: fortran
 ---
