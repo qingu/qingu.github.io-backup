@@ -1,6 +1,6 @@
 ---
 layout: post
-title: DEBUG笔记: forrtl error 78
+title: forrtl error 78
 date: 2023-06-05
 tags: fortran intel debug
 ---
